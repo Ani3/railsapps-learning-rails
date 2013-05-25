@@ -1,0 +1,9 @@
+Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/fix_wrapper.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/noexec.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/regenerate_binstubs_command.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/rubygems_bundler_installer.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/uninstaller.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/version.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems-bundler/wrapper.rb	Wed, 13 Mar 2013 08:35:30 +0000
+lib/rubygems_plugin.rb	Wed, 13 Mar 2013 08:35:30 +0000

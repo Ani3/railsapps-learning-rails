@@ -1,0 +1,12 @@
+export PATH ; PATH="/home/action/.rvm/gems/ruby-2.0.0-p0@railsapps-learning-rails/bin:/home/action/.rvm/gems/ruby-2.0.0-p0@global/bin:/home/action/.rvm/rubies/ruby-2.0.0-p0/bin:/home/action/.rvm/bin:$PATH"
+export rvm_env_string ; rvm_env_string='ruby-2.0.0-p0@railsapps-learning-rails'
+export rvm_path ; rvm_path='/home/action/.rvm'
+export rvm_ruby_string ; rvm_ruby_string='ruby-2.0.0-p0'
+export rvm_gemset_name ; rvm_gemset_name='railsapps-learning-rails'
+export RUBY_VERSION ; RUBY_VERSION='ruby-2.0.0-p0'
+export GEM_HOME ; GEM_HOME='/home/action/.rvm/gems/ruby-2.0.0-p0@railsapps-learning-rails'
+export GEM_PATH ; GEM_PATH='/home/action/.rvm/gems/ruby-2.0.0-p0@railsapps-learning-rails:/home/action/.rvm/gems/ruby-2.0.0-p0@global'
+export MY_RUBY_HOME ; MY_RUBY_HOME='/home/action/.rvm/rubies/ruby-2.0.0-p0'
+export IRBRC ; IRBRC='/home/action/.rvm/rubies/ruby-2.0.0-p0/.irbrc'
+unset MAGLEV_HOME
+unset RBXOPT

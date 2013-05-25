@@ -1,0 +1,32 @@
+[2013-03-13 08:35:28] '/home/action/.rvm/scripts/gemsets' initial # under ruby-1.9.3-p374
+Importing initial gemsets for ruby-1.9.3-p374.
+paths: /home/action/.rvm/gemsets/ruby/1.9.3/p374 /home/action/.rvm/gemsets/ruby/1.9.3 /home/action/.rvm/gemsets/ruby /home/action/.rvm/gemsets
+
+Installing gems listed in /home/action/.rvm/gemsets/default.gems file...
+
+
+Processing of /home/action/.rvm/gemsets/default.gems is complete.
+
+
+Installing gems listed in /home/action/.rvm/gemsets/global.gems file...
+
+installing rubygems-bundler ...
+tee: standard output: Broken pipe
+tee: write error
+rubygems-bundler  installed.
+installing bundler ...
+tee: standard output: Broken pipe
+tee: write error
+bundler  installed.
+installing rake ...
+tee: standard output: Broken pipe
+tee: write error
+rake  installed.
+installing rvm ...
+tee: standard output: Broken pipe
+tee: write error
+rvm  installed.
+
+Processing of /home/action/.rvm/gemsets/global.gems is complete.
+
+Installation of gems for ruby-1.9.3-p374 is complete.

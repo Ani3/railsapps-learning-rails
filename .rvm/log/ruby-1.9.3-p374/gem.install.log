@@ -1,0 +1,7 @@
+[2013-03-13 08:36:09] gem
+current path: /home/action
+command(7): env GEM_HOME=/home/action/.rvm/gems/ruby-1.9.3-p374@global GEM_PATH=/home/action/.rvm/gems/ruby-1.9.3-p374@global gem install --remote rvm
+Successfully installed rvm-1.11.3.6
+1 gem installed
+Installing ri documentation for rvm-1.11.3.6...
+Installing RDoc documentation for rvm-1.11.3.6...
